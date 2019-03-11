@@ -1,0 +1,6 @@
+Eingegebener String:
+Hallo
+Hallo
+Ciao
+Moin
+Servus

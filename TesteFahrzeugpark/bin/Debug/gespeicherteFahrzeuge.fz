@@ -1,0 +1,3 @@
+{"$type":"Fahrzeugpark.PKW, Fahrzeugpark","Treibstoff":0,"RäderAnzahl":4,"MaxGeschwindkeit":290,"AktGeschwindigkeit":0,"Name":"BMW","Preis":36000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Flugzeug, Fahrzeugpark","MaxFlughöhe":9999,"RäderAnzahl":8,"MaxGeschwindkeit":3000,"AktGeschwindigkeit":0,"Name":"Boing","Preis":2600000.0,"MotorLäuft":false}
+{"$type":"Fahrzeugpark.Schiff, Fahrzeugpark","AnzahlBesatzung":900,"Ladung":null,"MaxGeschwindkeit":60,"AktGeschwindigkeit":0,"Name":"Titanic","Preis":6000000.0,"MotorLäuft":false}

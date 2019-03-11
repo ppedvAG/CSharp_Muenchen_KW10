@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\bin\Debug\WerteUndReferenztypen.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\bin\Debug\WerteUndReferenztypen.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\bin\Debug\WerteUndReferenztypen.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\obj\Debug\Modul04.3_WerteUndReferenztypen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\obj\Debug\WerteUndReferenztypen.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\WerteUndReferenztypen\obj\Debug\WerteUndReferenztypen.pdb

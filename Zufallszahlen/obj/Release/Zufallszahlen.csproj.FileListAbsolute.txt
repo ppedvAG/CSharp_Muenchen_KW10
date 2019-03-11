@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\bin\Release\Zufallszahlen.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\bin\Release\Zufallszahlen.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\bin\Release\Zufallszahlen.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\obj\Release\Zufallszahlen.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\obj\Release\Zufallszahlen.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\Zufallszahlen\obj\Release\Zufallszahlen.pdb

@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\bin\Debug\Delegates.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\bin\Debug\Delegates.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\obj\Debug\Modul09.1_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\obj\Debug\Delegates.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\Delegates\obj\Debug\Delegates.pdb

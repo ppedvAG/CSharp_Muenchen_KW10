@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\bin\Debug\SpeichernUndLaden.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\obj\Debug\Modul10.1_SpeichernUndLaden.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\SpeichernUndLaden\obj\Debug\SpeichernUndLaden.pdb

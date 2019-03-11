@@ -1,0 +1,17 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.deps.json
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.runtimeconfig.json
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.runtimeconfig.dev.json
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Fahrzeugpark.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\bin\Debug\netcoreapp2.1\Fahrzeugpark.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.AssemblyInfoInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.AssemblyInfo.cs
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.csproj.CopyComplete
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.dll
+C:\Users\kh2\source\repos\CSharp_München_KW10\FahrzeugParkUnitTest\obj\Debug\netcoreapp2.1\Modul08.2_FahrzeugParkUnitTest.pdb

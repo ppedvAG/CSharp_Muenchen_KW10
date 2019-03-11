@@ -1,0 +1,10 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\bin\Debug\ButtonMovement.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\bin\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\bin\Debug\ButtonMovement.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\Lab09_ButtonMovement.csprojAssemblyReference.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\ButtonMovement.Form1.resources
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\ButtonMovement.Properties.Resources.resources
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\Lab09_ButtonMovement.csproj.GenerateResource.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\Lab09_ButtonMovement.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\ButtonMovement.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\ButtonMovement\obj\Debug\ButtonMovement.pdb

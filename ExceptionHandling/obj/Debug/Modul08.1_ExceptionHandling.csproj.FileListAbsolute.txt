@@ -1,0 +1,6 @@
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\obj\Debug\Modul08.1_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\kh2\source\repos\CSharp_München_KW10\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
